@@ -1,12 +1,19 @@
 🔗 Talking about Personal Stuffs:
 - 👋 Hi, I’m @hari74
+- 
 - 🛠 I’m currently working with Nodejs, Express, React,MongoDB
 Html,Css, Javascript, bootstrap,web fundamentals etc.
+
 🚀 I’m currently learning Full Stack web Development.
+
 👨🏻‍💻 Most of my projects are available on Github.
+
 💬  Ask me about anything here! I am happy to help.
+
 👾  Fun fact: Equal is Not Always Equal in Javascript.
+
 📫 How to reach me: dangetid74@gmail.com
+
 📝 Checkout my Resume.
 
 🔗 My Absolute Favorites:
